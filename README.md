@@ -41,7 +41,7 @@ No wider than the laptop's internal wall: almost invisible, but a bit harder to 
 
 
 
-### Printing tip
+### Printing tips
 
 - You need a printer with a bed at least 290mm wide (e.g. Prusa XL).
 - Print the spacer out of PETG or some other material that's even more temperature-resistant, not PLA, so the material won't turn gooey when the CPU gets hot.
