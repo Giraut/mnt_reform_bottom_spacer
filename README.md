@@ -51,3 +51,9 @@ No wider than the laptop's internal wall: almost invisible, but a bit harder to 
 ![MNT Reform bottom spacer #5](images/mnt_reform_bottom_spacer5.jpg)
 
 ![MNT Reform bottom spacer #6](images/mnt_reform_bottom_spacer6.jpg)
+
+
+
+## License
+
+MIT
